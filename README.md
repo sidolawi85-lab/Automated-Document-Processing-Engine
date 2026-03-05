@@ -255,7 +255,7 @@ This reduces regulatory risk while lowering long-term compliance costs.
 
 Interested in deploying PharmAI in your organization?
 
-📩 LinkedIn: [Your LinkedIn Profile]  
-📧 Email: your@email.com
+📩 LinkedIn: www.linkedin.com/in/sidneylawi-bi-consultant 
+📧 Email: sidolawi85@gmail.com
 
 Let’s turn regulatory complexity into financial advantage.
