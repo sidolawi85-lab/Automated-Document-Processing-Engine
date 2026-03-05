@@ -45,7 +45,7 @@ Instead of experts spending hours reading PDFs, the system performs first-pass i
 PharmAI operates on a proprietary **"Validate–Route–Extract"** architecture designed for financial efficiency and regulatory integrity.
 
 <!-- AUTOMATION ARCHITECTURE IMAGE -->
-![Automation Architecture](./assets/images/automation-workflow.jpg)
+![Automation Architecture](https://github.com/sidolawi85-lab/Automated-Document-Processing-Engine/blob/702d1792c28e6e0b4fca8db4fb342c8764298689/Automated%20Document%20Processing%20System/architecture/automation.png/Dawa%20document%20processing%20automation.png)
 
 <!-- INGESTION STAGE IMAGE -->
 ![Ingestion Process](./assets/images/automation-ingestion.jpg)
