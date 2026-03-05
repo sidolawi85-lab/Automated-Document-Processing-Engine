@@ -4,7 +4,7 @@
 ---
 
 <!-- PROJECT COVER IMAGE -->
-![Alt Text]()
+![Alt Text](Automated Document Processing System/architecture/cover.png/Automated Document Processing System Cover Photo.png)
 
 PharmAI is an enterprise-grade AI automation system that transforms unstructured pharmaceutical documents into structured, audit-ready regulatory intelligence.
 
