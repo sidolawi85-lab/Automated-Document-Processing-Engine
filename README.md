@@ -158,7 +158,7 @@ See how a 50-page Clinical Study Report is processed in under 60 seconds—from 
 ![PIL Input](https://github.com/sidolawi85-lab/Automated-Document-Processing-Engine/blob/80a58356c07aa550209cc06fd70323a0095f2f71/Automated%20Document%20Processing%20System/architecture/Input%20Document.png/Patient%20Information%20Leaflet.png)
 
 #### Extracted Output
-![PIL Output](./assets/images/pil-output.jpg)
+![PIL Output](https://github.com/sidolawi85-lab/Automated-Document-Processing-Engine/blob/a6a7c02a9662ba0da74f360e3a01dfc0ad9ac662/Automated%20Document%20Processing%20System/architecture/output%20Document.png/Patient%20Information%20Leaflet%20Summary.png)
 
 - Dosage normalization  
 - Contraindication mapping  
