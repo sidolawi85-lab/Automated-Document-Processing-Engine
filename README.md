@@ -142,7 +142,7 @@ Together, these transform regulatory operations into a profit-protecting engine.
 ## 📺 Project Demo
 
 <!-- DEMO VIDEO -->
-[![Watch Demo](./assets/images/demo-thumbnail.jpg)](./assets/videos/demo-video.mp4)
+[![Watch the video](https://img.youtube.com/vi/zb6ijQhI70g/maxresdefault.jpg)](https://youtu.be/zb6ijQhI70g)
 
 👉 Click to view the full system walkthrough.
 
